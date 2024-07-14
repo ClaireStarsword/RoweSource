@@ -94,8 +94,7 @@ gText_Birch_AndYouAre:: @ 82C8BD0
 	.string "And you are?$"
 
 gText_Birch_BoyOrGirl:: @ 82C8BDD
-	.string "Are you a boy?\n"
-	.string "Or are you a girl?$"
+	.string "First, what do you look like?$"
 
 gText_Birch_WhatsYourName:: @ 82C8BFF
 	.string "All right.\n"
